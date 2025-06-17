@@ -44,7 +44,7 @@ export const CONTENT_VALIDATION = {
  * LLM configuration
  */
 export const LLM_CONFIG = {
-  model: 'gpt-4',
+  model: 'gpt-4o',
   maxInputLength: 5000,
   maxOutputLength: 2000,
   temperature: {
